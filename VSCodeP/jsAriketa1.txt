@@ -1,0 +1,33 @@
+1- Errorea emango digu hello funtziotik kanpo dagoelako eta ez delako globala.
+
+2- Bai, egin daiteke.
+
+3- 
+
+4- 10
+
+5- 0
+
+6- Ez, ezin daiteke let-ekin behin bakarrik erazagutu daitekelako.
+
+7- Bai, egin daiteke var-ekin ez duelako trabarik jartzen.
+
+8- Ez.
+
+9- Errorea emango digu konstantea delako eta ezin delako aldatu.
+
+10- Ez. "agur" lortzen dugu aldagai globala ez delako aldatzen.
+
+11- Ez dago errorerik eta "iepa" lortzen dugu.
+
+
+2.ZATIA:
+
+1- arr aldagaia ez da aldatzen eta slicedArr aldagaiak [2,3,4] emaitza emango du.
+
+2- [2,3] arraya lortuko dugu splicedOut aldagaian eta arr aldagaia [1,'a','b',4,5] arrayra aldatuko da.
+
+3- newLength aldagaiak 4 balioa hartuko du eta anotherLength aldagaiak 7 balioa eta arr aldagaia  [-2, -1, 0, 1, 2, 3, 4] aldatuko da.
+
+4- "urreak,kopak,ezpatak,bastoiak" lortzen dugu.
+
