@@ -3,7 +3,6 @@ const enviarBtn = document.getElementById("enviarBtn");
 const inputNombre = document.getElementById("nombre");
 const saludo = document.getElementById("saludo");
 
-
 document.addEventListener('DOMContentLoaded', function () {
 // Agregamos un evento para el botón de envío
 enviarBtn.addEventListener("click", function() {
