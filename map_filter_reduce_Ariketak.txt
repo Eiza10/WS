@@ -1,0 +1,6 @@
+1- 
+    let zenbakiak = [3,5,8,2,1,11,20]
+    zenbakiak.map( zenbakia => { 
+        return zenbakia*2})
+
+2- 
